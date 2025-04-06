@@ -16,3 +16,10 @@ If you're reading this: welcome.
 
 
 initial launch statement
+
+Further Reading: Core Mechanism and White Paper
+This project is governed by the core principles and funding distribution mechanisms defined by STARDAO, the founding organization. For a complete understanding of how rights, resources, and responsibilities are managed across all affiliated projects, please refer to the following documents:
+
+STARDAO White Paper: STARDAO-Whitepaper.md
+Core Mechanism Explanation: CORE_MECHANISM.md
+These documents explain the logic behind incentive design, governance structure, and how value is distributed among creators, developers, and contributors within the ecosystem.
