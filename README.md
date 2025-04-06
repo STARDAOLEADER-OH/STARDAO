@@ -14,12 +14,11 @@ If you're reading this: welcome.
 
 – Founder of the First Island
 
+# 🔗 Connection to the Core Mechanism of STARDAO
+This project is fully based on the governance and capital flow mechanisms defined by STARDAO.  
+Please refer to the following foundational documents for a deeper understanding:
 
-initial launch statement
-
-Further Reading: Core Mechanism and White Paper
-This project is governed by the core principles and funding distribution mechanisms defined by STARDAO, the founding organization. For a complete understanding of how rights, resources, and responsibilities are managed across all affiliated projects, please refer to the following documents:
-
-STARDAO White Paper: STARDAO-Whitepaper.md
-Core Mechanism Explanation: CORE_MECHANISM.md
+- [🌌 STARDAO Whitepaper](https://github.com/STARDAOLEADER-OH/STARDAO/blob/main/STARDAO-Whitepaper.md)  
+- [🧭 Core Mechanism of STARDAO](https://github.com/STARDAOLEADER-OH/STARDAO/blob/main/CORE_MECHANISM.md)
+All fund distribution, incentive decay, project autonomy, and anti-corruption rules of this sub-project strictly comply with the STARDAO framework.
 These documents explain the logic behind incentive design, governance structure, and how value is distributed among creators, developers, and contributors within the ecosystem.
