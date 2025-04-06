@@ -22,3 +22,5 @@ Please refer to the following foundational documents for a deeper understanding:
 - [🧭 Core Mechanism of STARDAO](https://github.com/STARDAOLEADER-OH/STARDAO/blob/main/CORE_MECHANISM.md)
 All fund distribution, incentive decay, project autonomy, and anti-corruption rules of this sub-project strictly comply with the STARDAO framework.
 These documents explain the logic behind incentive design, governance structure, and how value is distributed among creators, developers, and contributors within the ecosystem.
+
+👉 View all subprojects: [PROJECTS.md](./PROJECTS.md)
