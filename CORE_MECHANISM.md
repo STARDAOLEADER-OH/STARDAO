@@ -1,3 +1,7 @@
+<img src="STARDAOLOGO.png" alt="STARDAO Logo" width="100" align="left" />
+
+<br clear="left" />
+
 Star DAO Project Island – Deployment Engine Core Mechanism (Draft)
 This document is a preparatory outline for the core system diagram of the Star DAO Deployment Island. Based on previous statements by the founder, it will be used to create a visual representation.
 
