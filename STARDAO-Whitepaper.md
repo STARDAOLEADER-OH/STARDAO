@@ -1,3 +1,8 @@
+<img src="STARDAOLOGO.png" alt="STARDAO Logo" width="100" align="left" />
+
+<br clear="left" />
+
+
 ✅ **[Final STAR DAO Whitepaper – Conflict-Resolved Full English Version]**
 
 ---
