@@ -26,3 +26,7 @@ All fund distribution, incentive decay, project autonomy, and anti-corruption ru
 These documents explain the logic behind incentive design, governance structure, and how value is distributed among creators, developers, and contributors within the ecosystem.
 
 👉 View all subprojects: [PROJECTS.md](./PROJECTS.md)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/STARDAOLEADER-OH/STARDAO/main/image.png" width="160" alt="STARDAO Logo">
+</p>
