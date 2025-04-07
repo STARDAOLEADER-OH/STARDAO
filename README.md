@@ -1,3 +1,5 @@
+![STARDAO Cover](./cover.png)
+
 Hello, and welcome to the first island of Star DAO.
 
 I don’t know if anyone will really read this. I don’t know if anyone will believe in this system. Maybe no one will care, and maybe it will never go anywhere.
