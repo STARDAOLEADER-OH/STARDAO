@@ -27,6 +27,6 @@ These documents explain the logic behind incentive design, governance structure,
 
 👉 View all subprojects: [PROJECTS.md](./PROJECTS.md)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/STARDAOLEADER-OH/STARDAO/main/image.png" width="160" alt="STARDAO Logo">
-</p>
+<img src="STARDAOLOGO.png" alt="STARDAO Logo" width="100" align="left" />
+
+<br clear="left" />
