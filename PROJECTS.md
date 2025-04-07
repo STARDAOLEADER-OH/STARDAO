@@ -5,7 +5,7 @@ Welcome to the STARDAO ecosystem. This document lists all current subprojects la
 | Subproject Name | Description | Repository |
 |-----------------|-------------|------------|
 | 💱 **StarPay - XCB Virtual Payment System** | A decentralized virtual currency-based payment network optimized for international small-scale tourism and retail transactions. | [View Project](https://github.com/STARDAOLEADER-OH/STARDAO-StarPay) |
-| 🧠 **APM Simulation DAO** | A simulation system for autonomous DAO governance modules, task delegation, and flexible management policies. | [View Project]([https://github.com/STARDAOLEADER-OH/STARDAO-StarPay](https://github.com/STARDAOLEADER-OH/STARDAO-PROJECT-ISLAND/blob/main/README.md)) |
+| 🧠 **APM Simulation DAO** | A simulation system for autonomous DAO governance modules, task delegation, and flexible management policies. [View Project](https://github.com/STARDAOLEADER-OH/STARDAO-PROJECT-ISLAND)
 
 ---
 
