@@ -1,3 +1,8 @@
+<img src="STARDAOLOGO.png" alt="STARDAO Logo" width="100" align="left" />
+
+<br clear="left" />
+
+
 ![STARDAO Cover](./cover.png)
 
 Hello, and welcome to the first island of Star DAO.
