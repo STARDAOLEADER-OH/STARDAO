@@ -12,3 +12,4 @@ Welcome to the STARDAO ecosystem. This document lists all current subprojects la
 For the overall structure of STARDAO, refer to:  
 📘 [Whitepaper](https://github.com/STARDAOLEADER-OH/STARDAO/blob/main/STARDAO-Whitepaper.md)  
 🔧 [Core Mechanism](https://github.com/STARDAOLEADER-OH/STARDAO/blob/main/CORE_MECHANISM.md)
+   [XCB-CORE-RULES](https://github.com/STARDAOLEADER-OH/XCB-CORE-RULES)
