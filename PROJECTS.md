@@ -12,5 +12,6 @@ Welcome to the STARDAO ecosystem. This document lists all current subprojects la
 
 For the overall structure of STARDAO, refer to:
 
+- 🧭 [Project Overview](./README.md)
 - 📘 [Whitepaper](./STARDAO-WHITEPAPER.pdf)
 - 🛠 [Core Mechanism](./CORE_MECHANISM.md)
