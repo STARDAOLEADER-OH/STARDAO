@@ -6,6 +6,8 @@ Role: Director of Star Aliner / Founder of StarDAO
 
 Avatar: https://github.com/STARDAOLEADER-OH/STARDAO/blob/main/me.png
 
+wxf780728@gmail.com
+
 Personal Philosophy
 
 "There is no ideal, no goal. There is only what you instinctively want to say, and what you instinctively want to do. Not for some purpose, not for a dream or mission—just because a voice inside says: 'I want to do this.'"
