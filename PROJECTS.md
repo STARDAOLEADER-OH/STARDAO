@@ -8,3 +8,5 @@
 | 🗞️ NewsHub | A decentralized news validation system that monetizes factual integrity through tiered review and public attention. | [View Project](https://github.com/STARDAOLEADER-OH/STARDAO-NEWS-HUB) |
 | 🕹️ Human Governance System | A conceptual decentralized civic governance framework based on system modules, legislative committees, and moral contrast via virtual societal environments. | [View Project](https://github.com/STARDAOLEADER-OH/-Human-Governance-System) |
 | 🧭 STARLang · Island Language System | A zero-code natural language execution platform enabling humans to command machines purely through speech or text, with built-in intent clarification, permission hierarchy, and biometric safeguards. | [View Project](https://github.com/STARDAOLEADER-OH/STARDAO-Island-Language)
+| 🚀 StarLift - Anti-Gravity Framework | A theoretical anti-gravity system based on multi-domain field asymmetry, electron memory collapse, and structural reversal. | [View Project](https://github.com/STARDAOLEADER-OH/STARDAO-STARLIFT) |
+****
