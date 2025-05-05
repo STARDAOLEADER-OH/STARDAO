@@ -9,4 +9,6 @@
 | 🕹️ Human Governance System | A conceptual decentralized civic governance framework based on system modules, legislative committees, and moral contrast via virtual societal environments. | [View Project](https://github.com/STARDAOLEADER-OH/-Human-Governance-System) |
 | 🧭 STARLang · Island Language System | A zero-code natural language execution platform enabling humans to command machines purely through speech or text, with built-in intent clarification, permission hierarchy, and biometric safeguards. | [View Project](https://github.com/STARDAOLEADER-OH/STARDAO-Island-Language)
 | 🚀 StarLift - Anti-Gravity Framework | A theoretical anti-gravity system based on multi-domain field asymmetry, electron memory collapse, and structural reversal. | [View Project](https://github.com/STARDAOLEADER-OH/STARDAO-STARLIFT) |
+| 🛰️ Space Computation Core | A large-scale orbital computing infrastructure powered by solar energy and air circulation-based power generation, aiming to offload global computation into space and achieve sustainable zero-emission processing. | [View Project](https://github.com/STARDAOLEADER-OH/Space-Computation-Core)
+
 ****
